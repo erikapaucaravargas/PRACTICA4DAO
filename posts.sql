@@ -1,0 +1,2 @@
+INSERT INTO `posts`(`id`, `fecha`, `titulo`, `contenido`) VALUES (4, '2023-06-13', 'Deja de ser tu', 'Psicologia');
+INSERT INTO `posts`(`id`, `fecha`, `titulo`, `contenido`) VALUES (7, '2024-05-23', 'Cien aÃ±os de soledad', 'esta obra maestra del realismo mÃ¡gico narra la historia de la familia BuendÃ­a a lo largo de varias generaciones en el pueblo ficticio de Macondo. La novela explora temas como el tiempo cÃ­clico, la soledad, y la fatalidad, con un estilo que mezcla lo fantÃ¡stico con lo cotidiano.');
